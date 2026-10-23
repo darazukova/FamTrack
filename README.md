@@ -30,6 +30,12 @@
 ## 2. Моделирование процессов и взаимодействий
 ### 2.1 Use case диаграмма:
 <img width="467" height="480" alt="Снимок экрана — 2026-10-23 в 08 27 10" src="https://github.com/user-attachments/assets/a1a7c24d-f7f0-48e7-8e87-9f93774aa3f9" />
+## Запуск программы
+Перейти в корневую папку проекта в терминале и вписать:
+python scr/main.py
+### Эр-диаграмма базы данных
+<img width="2468" height="826" alt="image_2026-10-23_00-12-42" src="https://github.com/user-attachments/assets/f87343c8-3b7f-492c-9dc6-c299e7c2888a" />
+
 
 
 

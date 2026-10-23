@@ -29,6 +29,7 @@
     • Слой данных: хранит информацию о пользователях, расходах и категориях расходов.
 ## 2. Моделирование процессов и взаимодействий
 ### 2.1 Use case диаграмма:
-<img width="1280" height="1247" alt="photo_2026-10-22 22 46 35" src="https://github.com/user-attachments/assets/3bdd8644-935f-4447-b17b-4d5d5d5050cf" />
+<img width="467" height="480" alt="Снимок экрана — 2026-10-23 в 08 27 10" src="https://github.com/user-attachments/assets/a1a7c24d-f7f0-48e7-8e87-9f93774aa3f9" />
+
 
 
